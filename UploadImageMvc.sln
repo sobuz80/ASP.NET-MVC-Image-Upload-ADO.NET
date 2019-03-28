@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadImageMvc", "UploadImageMvc\UploadImageMvc.csproj", "{D7E302BB-8B09-45BA-8702-37BF0EB2A55D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E302BB-8B09-45BA-8702-37BF0EB2A55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E302BB-8B09-45BA-8702-37BF0EB2A55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E302BB-8B09-45BA-8702-37BF0EB2A55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E302BB-8B09-45BA-8702-37BF0EB2A55D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC46D27-4EF3-4707-BEF9-254D2CED1EE3}
+	EndGlobalSection
+EndGlobal
